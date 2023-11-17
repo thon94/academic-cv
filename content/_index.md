@@ -53,7 +53,7 @@ sections:
       title: Industrial Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: July 1994
+      date_format: Jul 1994
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
@@ -65,8 +65,8 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Murray Hill, NJ
-          date_start: 'June 2023'
-          date_end: 'August 2023'
+          date_start: 'Jun 2023'
+          date_end: 'Aug 2023'
           description: |2-
               Responsibilities include:
 
@@ -78,7 +78,7 @@ sections:
           company_logo: org-x
           location: Vietnam
           date_start: 'May 2018'
-          date_end: 'July 2019'
+          date_end: 'Jul 2019'
           description: Designed and implemented C++ modules and exported as plug-ins for BIM software to reduce time for making drawings from 3D models of buildings, bridges, etc.
     design:
       columns: '2'
