@@ -67,15 +67,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Soccer
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: futbol
         icon_pack: fas
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: dog
         icon_pack: fas
       - name: Photography
         description: ''
@@ -111,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-I am a PhD student in the Big Data Analytics Laboratory at NJIT. My research interests include database management for machine learning, reinforcement learning, large language models, and computer vision.
+I am a PhD student in the Big Data Analytics Laboratory at NJIT. My research interests include database management for machine learning, reinforcement learning, large language models, and computer vision. I used to work with federated learning in the past and have publications in that field.
 {style="text-align: justify;"}
