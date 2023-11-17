@@ -65,8 +65,8 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Murray Hill, NJ
-          date_start: 'Jun 2023'
-          date_end: 'Aug 2023'
+          date_start: Jun 2023
+          date_end: Aug 2023
           description: |2-
               Responsibilities include:
 
