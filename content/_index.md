@@ -65,8 +65,8 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Murray Hill, NJ
-          date_start: Jun 2023
-          date_end: Aug 2023
+          date_start: '2023-06-05'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
@@ -77,8 +77,8 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Vietnam
-          date_start: 'May 2018'
-          date_end: 'Jul 2019'
+          date_start: '2018-05-01'
+          date_end: '2019-07-01'
           description: Designed and implemented C++ modules and exported as plug-ins for BIM software to reduce time for making drawings from 3D models of buildings, bridges, etc.
     design:
       columns: '2'
