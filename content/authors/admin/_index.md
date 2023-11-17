@@ -69,7 +69,7 @@ skills:
     items:
       - name: Soccer
         description: ''
-        percent: 60
+        percent: 80
         icon: futbol
         icon_pack: fas
       - name: Dogs
@@ -111,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-I am a PhD student in the Big Data Analytics Laboratory at NJIT. My research interests include database management for machine learning, reinforcement learning, large language models, and computer vision. I used to work with federated learning in the past and have publications in that field.
+I am a PhD student in the Big Data Analytics Laboratory at NJIT. My research interests include database management for machine learning, reinforcement learning, large language models, and computer vision. I used to work with federated learning in the past and also have publications in that field.
 {style="text-align: justify;"}
