@@ -72,14 +72,14 @@ sections:
 
               * Developed autoencoder frameworks for image representation learning based on vision transformers (ViT) and CNN-based models(ResNet, DenseNet, VGG, etc.) using benchmark datasets: ImageNet, CIFAR100, CIFAR10.
               * Adapted variational autoencoder as data augmentation to improve object detection metrics on video data using Faster-RCNN + ResNet.
-        - title: Professor of Semiconductor Physics
-          company: University X
+          company: MT Højgaard
+        - title: Software Developer & BIM Engineer
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Vietnam
+          date_start: 'May 2018'
+          date_end: 'July 2019'
+          description: Designed and implemented C++ modules and exported as plug-ins for BIM software to reduce time for making drawings from 3D models of buildings, bridges, etc.
     design:
       columns: '2'
   - block: accomplishments
