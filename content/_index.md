@@ -72,8 +72,8 @@ sections:
 
               * Developed autoencoder frameworks for image representation learning based on vision transformers (ViT) and CNN-based models(ResNet, DenseNet, VGG, etc.) using benchmark datasets: ImageNet, CIFAR100, CIFAR10.
               * Adapted variational autoencoder as data augmentation to improve object detection metrics on video data using Faster-RCNN + ResNet.
-          company: MT Højgaard
         - title: Software Developer & BIM Engineer
+          company: MT Højgaard
           company_url: ''
           company_logo: org-x
           location: Vietnam
