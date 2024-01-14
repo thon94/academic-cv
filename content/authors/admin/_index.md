@@ -6,7 +6,7 @@ title: Thinh On
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: Thinh
+first_name: Thinh (Tim)
 last_name: On
 
 # Status emoji
